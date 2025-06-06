@@ -23,8 +23,3 @@ Learned concepts include:
 - Accuracy calculation and confusion matrix generation  
 
 ---
-
-### ⚙️ How to Use  
-1. Clone this repository  
-```bash
-git clone https://github.com/yourusername/your-repo-name.git
